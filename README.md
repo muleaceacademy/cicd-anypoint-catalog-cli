@@ -8,6 +8,7 @@
 ## YouTube Tutorial
 
 Watch the complete walkthrough here:
+
 <a href="https://www.youtube.com/watch?v=WsrA3YZolME" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://img.youtube.com/vi/WsrA3YZolME/maxresdefault.jpg" 
