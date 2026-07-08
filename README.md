@@ -5,6 +5,18 @@
 > **A complete CI/CD demonstration showing how to automatically publish API specifications to MuleSoft Anypoint Exchange using the Anypoint API Catalog CLI and GitHub Actions.**
 
 ---
+## YouTube Tutorial
+
+Watch the complete walkthrough here:
+<a href="https://www.youtube.com/watch?v=WsrA3YZolME" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.youtube.com/vi/WsrA3YZolME/maxresdefault.jpg" 
+    alt="Watch the YouTube video" 
+    width="720"
+  />
+</a>
+
+--- 
 
 ## Table of Contents
 
